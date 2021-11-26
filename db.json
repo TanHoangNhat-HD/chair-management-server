@@ -1,0 +1,54 @@
+{
+  "chairs": [
+    {
+      "id": "1",
+      "name": "Dezan",
+      "price": 2600000
+    },
+    {
+      "id": "2",
+      "name": "Vseat Sihoo M18",
+      "price": 3350000
+    },
+    {
+      "id": "3",
+      "name": "Monas B",
+      "price": 3500000
+    },
+    {
+      "id": "4",
+      "name": "Vinet",
+      "price": 4200000
+    },
+    {
+      "id": "5",
+      "name": "Ecomic",
+      "price": 4400000
+    },
+    {
+      "id": "6",
+      "name": "Vseat Sihoo M57 - Black",
+      "price": 4600000
+    },
+    {
+      "id": "7",
+      "name": "Neo Seat",
+      "price": 4600000
+    },
+    {
+      "id": "8",
+      "name": "Vseat Sihoo M57 - Grey",
+      "price": 4400000
+    },
+    {
+      "id": "9",
+      "name": "Vseat Sihoo M57 - Black frame",
+      "price": 4400000
+    },
+    {
+      "id": "10",
+      "name": "Ecomic Plus",
+      "price": 4999000
+    }
+  ]
+}
