@@ -3,52 +3,72 @@
     {
       "id": "1",
       "name": "Dezan",
-      "price": 2600000
+      "price": 2600000,
+      "weight": 17.65,
+      "material": ["fabric", "net"]
     },
     {
       "id": "2",
       "name": "Vseat Sihoo M18",
-      "price": 3350000
+      "price": 3350000,
+      "weight": 20,
+      "material": ["net"]
     },
     {
       "id": "3",
       "name": "Monas B",
-      "price": 3500000
+      "price": 3500000,
+      "weight": 23,
+      "material": ["fabric", "net"]
     },
     {
       "id": "4",
       "name": "Vinet",
-      "price": 4200000
+      "price": 4200000,
+      "weight": 24.2,
+      "material": ["net", "plastic", "alloy"]
     },
     {
       "id": "5",
       "name": "Ecomic",
-      "price": 4400000
+      "price": 4400000,
+      "weight": 25.5,
+      "material": ["fabric", "net"]
     },
     {
       "id": "6",
       "name": "Vseat Sihoo M57 - Black",
-      "price": 4600000
+      "price": 4600000,
+      "weight": 22.2,
+      "material": ["net"]
     },
     {
       "id": "7",
       "name": "Neo Seat",
-      "price": 4600000
+      "price": 4600000,
+      "weight": 23.5,
+      "material": ["net", "plastic"]
     },
     {
       "id": "8",
       "name": "Vseat Sihoo M57 - Grey",
-      "price": 4400000
+      "price": 4400000,
+      "weight": 22.2,
+      "material": ["net"]
     },
     {
       "id": "9",
       "name": "Vseat Sihoo M57 - Black frame",
-      "price": 4400000
+      "price": 4400000,
+      "weight": 22.2,
+      "material": ["net"]
     },
     {
       "id": "10",
       "name": "Ecomic Plus",
-      "price": 4999000
+      "price": 4999000,
+      "weight": 22.5,
+      "material": ["net", "plastic", "alloy"]
     }
   ]
 }
